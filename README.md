@@ -1,4 +1,4 @@
-[![MasterHead](https://img.wattpad.com/ae62b31ad96bbbf91af708c279af5aaa4ec574f7/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f385a413942324d5a5272525446513d3d2d3537333036363733302e313532643739386565376364663536663939363334313231323131302e676966)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm ABHISHEK GANGULY</h1>
 <h3 align="center">A passionate frontend developer & UI designer from India</h3>
 
@@ -8,11 +8,13 @@
 
 - 🌱 I’m currently learning **Java, AWS, UI designings**
 
+- 🧍You can call me <p><b>Rishi / Rishio</b></p> 
+
 - 👯 I’m looking to collaborate on **different open source projects**
 
 - 👨‍💻 All of my projects are available at [https://rishiooo.github.io/rishio/](https://rishiooo.github.io/rishio/)
 
-- 📝 I regularly write articles on [I wish I could](I wish I could)
+- 📝 I regularly write articles on  **I wish I could**
 
 - 💬 Ask me about **Linux**
 
